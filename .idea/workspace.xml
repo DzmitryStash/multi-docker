@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89c9f3af-87cb-4b25-9c32-3f4a649406fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-    </list>
+    <list default="true" id="89c9f3af-87cb-4b25-9c32-3f4a649406fc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +57,7 @@
       <workItem from="1609944299487" duration="51000" />
       <workItem from="1611243826298" duration="108000" />
       <workItem from="1611243942343" duration="6839000" />
-      <workItem from="1611500609936" duration="2897000" />
+      <workItem from="1611500609936" duration="3739000" />
     </task>
     <servers />
   </component>
